@@ -6,7 +6,7 @@ icon: scroll
 
 ## ![:Freshlux\~1:](https://cdn.discordapp.com/emojis/1258668662383185991.webp?size=56\&quality=lossless) | FRESHLUX COMMUNITY SERVER RULES
 
-1. Only advertise/send invite links in ⁠_unknown_.
+1. Only advertise/send invite links in &#x2060;_&#x75;nknown_.
 2. No hate speech in any channels at all, this includes private channels.
 3. No swearing in any channels, this includes private channels.
 4. Do not ping any of the ownership team or SHR+.

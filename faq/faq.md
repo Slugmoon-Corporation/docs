@@ -15,8 +15,8 @@ Firstly, you'll need to join our [Roblox Group](https://roblox.com/groups/332683
 
 
 
-If you would like to apply for store colleague, you can do so [here](https://panel.readmin.app/apply/Freshlux\_Store-Colleague).\
-If you would like to apply for security, you can do so [here](https://panel.readmin.app/apply/Freshlux\_Security).
+If you would like to apply for store colleague, you can do so [here](https://panel.readmin.app/apply/Freshlux_Store-Colleague).\
+If you would like to apply for security, you can do so [here](https://panel.readmin.app/apply/Freshlux_Security).
 
 </details>
 
